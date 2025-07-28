@@ -16,15 +16,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgzaTF2MTY4NGFpa2NleGdqOGw4eTVjaWhoNXU4dnV6YXN4bXdkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Ff2YxvwFDWl623bgR/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV6cm04N3JrcTh3dDNhdGxvZGN6cGl3eWVrcmxneHZsZmVsYXBpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h24Y1pZIGKXzG/giphy.gif"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
