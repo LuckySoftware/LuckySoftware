@@ -8,11 +8,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/g67zersodslpplnokxm86dzqp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=g67zersodslpplnokxm86dzqp&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="right" height="238" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV6cm04N3JrcTh3dDNhdGxvZGN6cGl3eWVrcmxneHZsZmVsYXBpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h24Y1pZIGKXzG/giphy.gif"  />
 
 ###
 
