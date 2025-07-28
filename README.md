@@ -16,12 +16,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2htazE5d3J5ejZjejJqY29xemdyeWJqOW44dWJzd3Q0dGN2ZW5rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wxHlJMpJangaysQte8/giphy.gif"  />
-
-###
-
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgzaTF2MTY4NGFpa2NleGdqOGw4eTVjaWhoNXU4dnV6YXN4bXdkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Ff2YxvwFDWl623bgR/giphy.gif"  />
 
 ###
@@ -31,8 +25,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
