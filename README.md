@@ -20,13 +20,9 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRhZXM5bjl4ZGIxbnl3YTlia3p3YWdmYmJ4Yms5bXZ6bWo0ZWRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11YnPdA5eN06Xe/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV6cm04N3JrcTh3dDNhdGxvZGN6cGl3eWVrcmxneHZsZmVsYXBpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h24Y1pZIGKXzG/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
 
